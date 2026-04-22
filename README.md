@@ -35,19 +35,8 @@ Or you can use the HTTPS URL:
 git clone https://github.com/veerayab1998/Bamrung_EEOB5460_Spring2026
 ```
 
-## Set your remote commit to your git hub repository
-```
-git remote set-url https://github.com/veerayab1998/Bamrung_EEOB5460_Spring2026
-```
-## Check if set remote works on your computer
-```
-git remote -v
-```
-```
-## Commit with a message
-```
-git commit -m "Python Assignment Upload."
-```
+Please email me if you have any problems
 
+Thanks,
 Fan
 
