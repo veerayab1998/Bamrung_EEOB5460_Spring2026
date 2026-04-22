@@ -37,7 +37,7 @@ git clone https://github.com/veerayab1998/Bamrung_EEOB5460_Spring2026
 
 ## Set your remote commit to your git hub repository
 ```
-git remote set-url origin https://github.com/veerayab1998/Bamrung_EEOB5460_Spring2026
+git remote set-url https://github.com/veerayab1998/Bamrung_EEOB5460_Spring2026
 ```
 ## Check if set remote works on your computer
 ```
