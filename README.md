@@ -16,7 +16,7 @@ This repository contains:
 ### 00_data_files
 * This folder includes all files or working files provided from the class assignment
 
-### 01_R_assignment_key 
+### 01_Python_assignment_key 
 * This folder contains the answer or key to the Python assignment
 
 ###  02_output_files
