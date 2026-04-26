@@ -3,13 +3,13 @@ For Python Assignment Submission
 
 _!!This README file only contains details about the file directory!!_
 
-**_Please refer to the Python_assignment_key.ipynb to read and replicate the workflow of the assignment_**
+**_Please refer to the BCB546_python_keys.ipynb to read and replicate the workflow of the assignment_**
 
 # Overview 
 
 This repository contains:
 
-* Python_assignment_key.ipynb: a process of describing the workflow of the assignment
+* BCB546_python_keys.ipynb: a process of describing the workflow of the assignment
 * This repository is for the purpose of the BCB546 spring 2026 class Python assignment
 * All folder details are listed below
 
@@ -20,7 +20,7 @@ This repository contains:
 * This folder contains the answer or key to the Python assignment
 
 ###  02_output_files
-* This folder contains all the output files
+* This folder contains all the output files, including the final dataframe and visualization plots
 
 **The key to the Python assignment is also at the main repository for easy finding**
 
